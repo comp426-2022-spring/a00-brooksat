@@ -1,0 +1,19 @@
+{
+  "name": "a00-brooksat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://brooksat: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@github.com/comp426-2022-spring/a00-brooksat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-spring/a00-brooksat/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-spring/a00-brooksat#readme"
+}
